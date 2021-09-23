@@ -1,4 +1,4 @@
-# Used_Car_Data_Analysis
+# Used Car Data Analysis
 
 This Repository contains exploratory data analyses and visualizations for parts of a kaggle dataset containing used car information in the US for a total of 7 brands namely Audi, BMW, Skoda, Ford, Volkswagen, Toyota, and Hyundai.
 <br>Dataset Sourse: https://www.kaggle.com/aishwaryamuthukumar/cars-dataset-audi-bmw-ford-hyundai-skoda-vw
@@ -15,3 +15,10 @@ In this analyses, the original dataset has been divided into 7 different dataset
 - Data Aggregation
 - Pivot Tables
 - Data Visualization
+
+# Used Car Price Prediction (Supervised Machine Learning)
+
+After analyzing and processing the available used car data, a Machine Learning model is developed from scratch based on the processed data.
+
+** Libraries Used: **
+- `SciKit Learn` for Machine Learning
